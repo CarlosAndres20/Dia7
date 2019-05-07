@@ -6,5 +6,6 @@ namespace Dia7
 {
     class Auto
     {
+        public string Airbag { get; set; }
     }
 }

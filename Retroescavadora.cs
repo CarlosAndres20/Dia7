@@ -6,5 +6,6 @@ namespace Dia7
 {
     class Retroescavadora
     {
+        public int NumPalas { get; set; }
     }
 }

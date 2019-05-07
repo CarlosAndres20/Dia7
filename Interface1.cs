@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Dia7
 {
-    interface Interface1
+    interface IVehiculo
     {
+        void DefinirVenta(string cadena);
     }
+    
 }

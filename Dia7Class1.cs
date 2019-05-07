@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Dia7
 {
-    class Dia7Class1
+    class Moto
     {
+        public string Cascos { get; set; }
+        public int Chalecos { get; set; }
     }
 }
